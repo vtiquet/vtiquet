@@ -1,16 +1,44 @@
-## Hi there 👋
+# Salut, moi c'est Valentin ! 👋
 
-<!--
-**vtiquet/vtiquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Développeur Software en formation | Ex-Contrôleur de Gestion
 
-Here are some ideas to get you started:
+Actuellement étudiant chez **Holberton School**, je transforme ma rigueur d'analyste financier en lignes de code performantes. Mon parcours atypique, passant par le pilotage financier et la gastronomie, m'a appris l'exigence et la résolution de problèmes sous pression.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Objectif actuel
+* 🎯 À la recherche d'une **Alternance Développeur Web / Full Stack**.
+* 📍 Basé à Thonon-les-Bains / Grand Genève .
+
+---
+
+### 🛠 Stack Technique
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Outils & Environnement :**
+* 🛠 **Workflow :** Git, GitHub, VS Code.
+* 🐳 **DevOps :** Docker, Linux (Ubuntu).
+* 📊 **Analyse :** Excel (Expert/VBA), Powerpoint.
+
+---
+
+### 📊 Statistiques GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtiquet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtiquet&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Me contacter
+<p align="left">
+<a href="https://linkedin.com/in/valentin-tiquet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-tiquet" height="30" width="40" /></a>
+<a href="mailto:valentin.tiquet@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" alt="email" height="30" width="30" /></a>
+</p>
