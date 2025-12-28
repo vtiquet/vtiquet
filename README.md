@@ -8,7 +8,6 @@ Actuellement étudiant chez **Holberton School**, je transforme ma rigueur d'ana
 
 ### 🚀 Objectif actuel
 * 🎯 À la recherche d'une **Alternance Développeur Web / Full Stack**.
-* 📍 Basé à Thonon-les-Bains / Grand Genève .
 
 ---
 
@@ -29,16 +28,7 @@ Actuellement étudiant chez **Holberton School**, je transforme ma rigueur d'ana
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtiquet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtiquet&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Me contacter
-<p align="left">
+
 <a href="https://linkedin.com/in/valentin-tiquet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-tiquet" height="30" width="40" /></a>
 <a href="mailto:valentin.tiquet@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" alt="email" height="30" width="30" /></a>
-</p>
